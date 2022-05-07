@@ -6,9 +6,9 @@
  El objetivo es la realización de un circuito que controle al motor, logrando<br>
  el llenado del tanque con la menor cantidad de encendidas. De esta forma se<br>
  intenta ahorrar energía, ya que al encender el motor este consume unas 6 veces<br>
- la corriente nominal de trabajo.
+ la corriente nominal de trabajo.<br>
  También se intentara diseñar el circuito con la menor cantidad de componentes y<br>
- de esta forma lograr que sea mas económico en comparación a los flotadores.
+ de esta forma lograr que sea mas económico en comparación a los flotadores.<br>
  Y por ultimo, el objetivo final seria lograr ser el reemplazo directo, UNO a<br>
  UNO entre los dos dispositivos (electrónico - mecánico), no agregando mas<br>
  cables ni fuentes adicionales a los ya existentes.
