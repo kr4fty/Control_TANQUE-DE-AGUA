@@ -25,10 +25,10 @@
 
 ## Futuras Modificaciones por mi (Kr4fty)
  * Utilizar una fuente capacitiva que me convierta los 220Vac a los 12Vdc
- * Modificar/corregir el circuito, ya que por ejemplo si seteamos que el nivel<br>
+ * ~~Modificar/corregir el circuito, ya que por ejemplo si seteamos que el nivel<br>
    mínimo de agua a un 25% y este sensor falla, es decir queda ABIERTO, el<br>
    motor seguiría funcionando indefinidamente. Lo mismo sucede con el sensor de<br>
-   75%
+   75%~~
  * Optimizar el circuito para tratar de utilizar la menor cantidad de componen_<br>
    tes electrónicos
 
