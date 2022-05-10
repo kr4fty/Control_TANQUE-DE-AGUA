@@ -1,7 +1,9 @@
 # Control de carga para TANQUE DE AGUA
  La función del circuito es la de encender/apagar un motor el cual llena un<br>
  tanque de agua. Sería reemplazo directo a los conocidos flotadores mecánicos.
-
+<br>
+<img align="center" src="https://i.ibb.co/bFryvny/TANQUE-DE-AGUA.png" width="720">
+<br>
 ## Objetivo
  El objetivo es la realización de un circuito que controle al motor, logrando<br>
  el llenado del tanque con la menor cantidad de encendidas. De esta forma se<br>
@@ -12,9 +14,7 @@
  Y por ultimo, el objetivo final seria lograr ser el reemplazo directo, UNO a<br>
  UNO entre los dos dispositivos (electrónico - mecánico), no agregando mas<br>
  cables ni fuentes adicionales a los ya existentes.<br>
- <br>
- <img align="center" src="https://i.ibb.co/PD3TCmM/TANQUE-DE-AGUA.png" width="720">
-<br>
+
 ## Ventajas
  * Mas económico en comparación al flotador mecánico
  * Menor consumo de energía, ya que solo se activara cuando llegue al nivel<br>
