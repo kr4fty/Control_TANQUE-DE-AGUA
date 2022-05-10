@@ -2,7 +2,7 @@
  La función del circuito es la de encender/apagar un motor el cual llena un<br>
  tanque de agua. Sería reemplazo directo a los conocidos flotadores mecánicos.
 <br>
-<img align="center" src="https://i.ibb.co/5vF1ft4/ezgif-1-4a84abe961.gif">
+<img align="center" src="https://i.ibb.co/5vF1ft4/ezgif-1-4a84abe961.gif"><img align="center" src="https://i.ibb.co/bFryvny/TANQUE-DE-AGUA.png" width="720">
 <br>
 ## Objetivo
  El objetivo es la realización de un circuito que controle al motor, logrando<br>
