@@ -11,8 +11,10 @@
  de esta forma lograr que sea mas económico en comparación a los flotadores.<br>
  Y por ultimo, el objetivo final seria lograr ser el reemplazo directo, UNO a<br>
  UNO entre los dos dispositivos (electrónico - mecánico), no agregando mas<br>
- cables ni fuentes adicionales a los ya existentes.
-
+ cables ni fuentes adicionales a los ya existentes.<br>
+ <br>
+ <img align="center" src="https://ibb.co/LNbQpkr" width="720">
+<br>
 ## Ventajas
  * Mas económico en comparación al flotador mecánico
  * Menor consumo de energía, ya que solo se activara cuando llegue al nivel<br>
