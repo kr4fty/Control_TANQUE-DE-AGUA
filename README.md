@@ -13,7 +13,7 @@
  UNO entre los dos dispositivos (electrónico - mecánico), no agregando mas<br>
  cables ni fuentes adicionales a los ya existentes.<br>
  <br>
- <img align="center" src="https://ibb.co/LNbQpkr" width="720">
+ <img align="center" src="https://i.ibb.co/PD3TCmM/TANQUE-DE-AGUA.png" width="720">
 <br>
 ## Ventajas
  * Mas económico en comparación al flotador mecánico
