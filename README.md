@@ -2,7 +2,7 @@
  La función del circuito es la de encender/apagar un motor el cual llena un<br>
  tanque de agua. Sería reemplazo directo a los conocidos flotadores mecánicos.
 <br>
-<img align="center" src="https://i.ibb.co/5vF1ft4/ezgif-1-4a84abe961.gif"><img align="center" src="https://i.ibb.co/bFryvny/TANQUE-DE-AGUA.png" width="720">
+<img align="center" src="https://i.ibb.co/7RJhnng/TANQUE-DE-AGUA.png" width="720">
 <br>
 ## Objetivo
  El objetivo es la realización de un circuito que controle al motor, logrando<br>
@@ -26,7 +26,7 @@
  * Dependiendo los sensores utilizados, se debería hasta agujerear al taque
 
 ## Futuras Modificaciones por mi (Kr4fty)
- * Utilizar una fuente capacitiva que me convierta los 220Vac a los 12Vdc
+ * ~~Utilizar una fuente capacitiva que me convierta los 220Vac a los 12Vdc~~
  * ~~Modificar/corregir el circuito, ya que por ejemplo si seteamos que el nivel<br>
    mínimo de agua a un 25% y este sensor falla, es decir queda ABIERTO, el<br>
    motor seguiría funcionando indefinidamente. Lo mismo sucede con el sensor de<br>
